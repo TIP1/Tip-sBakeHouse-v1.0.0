@@ -41,13 +41,12 @@ So, in this version, let's call it v1.0.0, the following is included:
 
 Now, let’s go over the modules first. I won’t be writing descriptions for the parameters, because everything is already explained in the tooltips that appear when you hover over the parameters. I’ve tried to create as many customization options for your scenario as possible. If anything is unclear, feel free to ask questions on the project’s **Discord** server. I recommend experimenting with the module settings to create a **unique** scenario; there are so many that while testing the mod, I kept discovering something new due to the number of settings and their combinations. Sometimes this can even fix certain bugs!
 
-**1. Garbage Collector**
- Removes dead bodies and destroyed vehicles.
+**1. Garbage Collector** - Removes dead bodies and destroyed vehicles.
 
-**2. Dynamic Simulation System**
-Allows you to play with stable FPS even when there are 2000-4000 units on one map, making it feel like you’re playing with only 200 units. Everything can be customized as you see fit.
+**2. Dynamic Simulation System** - Allows you to play with stable FPS even when there are 2000-4000 units on one map, making it feel like you’re playing with only 200 units. Everything can be customized as you see fit.
 
-**3. Frontline Mode**
+**3. Frontline Mode** 
+
 We need to go into more detail here. This is a game mode for a **long global campaign**. The entire map is divided between two sides into sectors, and the side that captures all the sectors wins. In the future, I’ll refine the logistics and supply system. At this stage, troops will spawn in each frontline sector from your reserves. Keep in mind that sectors that are surrounded or deep in enemy territory will be unavailable for troop spawning. Everything can be customized or disabled as you like! :) To create a scenario with this game mode, you’ll need modules from the corresponding tab. All these modules have descriptions explaining their purpose.
 
 **To create this scenario:**
