@@ -94,7 +94,7 @@ I recommend playing as Zeus. Place a character and a Game Master module, assign 
 
 **7. Unit Status Update Module** - Adds units to the curator-Zeus for editing, and also removes empty groups (from the scenario cache), allowing you to bypass the limit on the number of groups in the scenario.
 
-**Supports any mods (may be buggy with AI-mods, but with Vcom works fine), any OS, any map. I didn't tested it in MP*
+**Supports any mods (may be buggy with AI-mods, but with VcomAI works fine), any OS, any map. I didn't tested it in MP*
 
 ***With love, your Tip <3***
 
