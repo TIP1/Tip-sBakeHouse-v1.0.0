@@ -81,3 +81,9 @@ Now, let’s go over the modules first. I won’t be writing descriptions for th
 
 ***With love, your Tip <3***
 @TipsBakeHouse
+
+
+[GITHUB](https://github.com/TIP1/Tip-sBakeHouse-v1.0.0)
+[YOUTUBE](https://www.youtube.com/@TipTheBakerChannel)
+[STEAM](https://steamcommunity.com/profiles/76561198130926199/)
+[DISCORD](https://discord.gg/CuF55eWwhk)
